@@ -14,4 +14,6 @@ I could not get this on the Steam Workshop, so I am using GitHub to publish this
 More will be added soon.
 
 ## Example images
-![alt text](gitimages/roblox_friends.jpg "Ragdolls all over the place")
+![alt text](gitimages/roblox_friends.jpg "image")
+![alt text](gitimages/roblox_npcs.jpg "image")
+![alt text](gitimages/moh_chair.jpg "image")
