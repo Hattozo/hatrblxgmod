@@ -38,11 +38,11 @@ You've completed downloading the addon. Now we will show you how to spawn them.
 
 In your spawn menu, click "Games", then "All".
 
-![alt text](gitimages/hatfolder.png "image")
+![alt text](gitimages/arrowsteam.png "image")
 
 Search for "roblox_avatars". Click it, then spawn the ragdolls.
 
-![alt text](gitimages/hatfolder.png "image")
+![alt text](gitimages/gmodrblxragdoll.png "image")
 
 You're done!
 
