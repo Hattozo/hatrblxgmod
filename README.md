@@ -12,3 +12,6 @@ I could not get this on the Steam Workshop, so I am using GitHub to publish this
 - Tdp11 (guy who did the ragdolls)
 - chriscruz06 (Currently broken, may fix)
 More will be added soon.
+
+## Example images
+![alt text](gitimages/roblox_friends.jpg "Ragdolls all over the place")
