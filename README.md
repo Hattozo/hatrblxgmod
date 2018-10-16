@@ -36,7 +36,7 @@ Copy your "hatrblxgmod" folder that you downloaded to the "addons" folder.
 
 ### You've completed downloading the addon. Now we will show you how to spawn them.
 
-In your spawn menu, click "Games", then "All".
+In your spawn menu, click the arrow to "Games", then click the arrow to "All".
 
 ![alt text](gitimages/arrowsteam.png "image")
 
