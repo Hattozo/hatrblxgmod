@@ -17,3 +17,5 @@ More will be added soon.
 ![alt text](gitimages/roblox_friends.jpg "image")
 ![alt text](gitimages/roblox_npcs.jpg "image")
 ![alt text](gitimages/moh_chair.jpg "image")
+
+I'd like to see what screenshots you can make with these ragdolls, so try contacting me a image you made with these ragdolls
