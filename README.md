@@ -13,6 +13,29 @@ I could not get this on the Steam Workshop, so I am using GitHub to publish this
 - chriscruz06 (Currently broken, may fix)
 More will be added soon.
 
+## How to install
+Download the latest build from the Releases tab on this GitHub page and download the "hatrblxgmod.zip" file. Unzip it and you'll get a "hatrblxgmod" folder.
+
+Right click Garry's Mod in your Steam library. Then press Properties.
+
+![alt text](gitimages/localfiles.png "image")
+
+When you get to Properties, go to Local Files then Browse Local Files.
+
+![alt text](gitimages/gmodfolder.png "image")
+
+You will enter your File Explorer and will be in the "GarrysMod" folder. Click the other "garrysmod" folder.
+
+![alt text](gitimages/addonsfolderopen.png "image")
+
+You will find the "addons" folder.
+
+![alt text](gitimages/hatfolder.png "image")
+
+Copy your "hatrblxgmod" folder that you downloaded to the "addons" folder.
+
+You're done!
+
 ## Example images
 ![alt text](gitimages/roblox_friends.jpg "image")
 ![alt text](gitimages/roblox_npcs.jpg "image")
